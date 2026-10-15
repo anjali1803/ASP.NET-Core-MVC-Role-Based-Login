@@ -1,2 +1,13 @@
-# ASP.NET-Core-MVC-Role-Based-Login
-ASP.NET Core MVC with Role Based Authentication and Authorization
+ASP.NET Core MVC App with Role-Based Authentication and Authorization
+This repository contains an ASP.NET Core MVC application built with a robust role-based authentication and authorization system. The application is designed to demonstrate secure user management and access control, making it a perfect starting point for scalable web applications.
+
+Features
+User Authentication:
+Secure registration and login functionality using ASP.NET Identity.
+Role-Based Authorization:
+Admin and User roles implemented for access control.
+Restrict access to pages based on user roles.
+Navigation and Error Handling: User-friendly navigation with role-specific menus.
+Redirection and error handling for unauthorized access.
+Scalable Architecture: Clean and modular code structure for easy customization.
+Implements best practices in ASP.NET Core MVC development.
